@@ -1,6 +1,6 @@
 
 h1 {
-  color:pink;
+  color:red;
   font-size:250%;
   font-family:"Courier New"
 }
@@ -9,4 +9,6 @@ P {font-family: "Courier New";
 text-indent: 30px;
 margin-left: 10px;
 }
-Text-
+#content
+{background-color:#bab86c;
+}

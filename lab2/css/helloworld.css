@@ -5,11 +5,21 @@ h1 {
   font-family:"Courier New"
 }
 
-P {font-family: "Courier New";
-text-indent: 30px;
-margin-left: 10px;
+p {
+  font-family: "Courier New";
+  text-indent: 30px;
+  margin-left: 10px;
+border-style: groove;
+
 }
 
-#content
-{background-color: #bab86c;
+#content {
+  background-color: rbg (118,177,125);
 }
+
+/*
+https://www.w3schools.com/css/css_border.asp
+
+
+
+*/

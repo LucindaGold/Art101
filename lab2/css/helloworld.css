@@ -9,13 +9,18 @@ p {
   font-family: "Courier New";
   text-indent: 30px;
   margin-left: 10px;
-border-style: groove;
+  border-style: groove;
 
 }
 
-#content {
+p.dream {
+  width: 50%;
+}
+
+div.content {
   background-color: rbg (118,177,125);
 }
+
 
 /*
 https://www.w3schools.com/css/css_border.asp

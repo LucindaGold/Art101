@@ -1,3 +1,21 @@
-#lab_2 a{
-  acolor:yellow;
+
+body
+{position: absolute; right: 50%;
+}
+
+h1
+{font-style: comic;
+  text-align: center;
+background-color: pink;
+}
+
+.bio {
+  text-align: center;
+  border-style: dotted;
+  border-color: red;
+}
+img {
+  border-style: dotted;
+  border-color: orange;
+
 }

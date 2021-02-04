@@ -4,8 +4,11 @@ html, body {
   background-color: #1c2833;
 }
 
+h1 {
+  font-size: 250%;
+}
 
-h1,h2,h3,h4,h5,h6 {
+h2,h3,h4,h5,h6 {
   color: white;
   font-family: helvetica;
   font-size: 200%;
@@ -21,7 +24,7 @@ p {
   color: lightblue;
 }
 
-
+/*
 ul {
   text-indent: 20px;
   margin-left: 20px;
@@ -36,6 +39,7 @@ ul a {
   font-size: 100%;
 }
 */
+
 #content {
   background-color: #1c2833;
   width: auto;
@@ -72,16 +76,4 @@ img {
   height: auto;
   width: 700px;
 
-}
-
-h1 {
-  font-size: 250%;
-}
-
-h6 {
-  margin-bottom: 40px;
-}
-
-p {
-  width: 700px;
 }

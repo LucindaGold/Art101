@@ -1,5 +1,5 @@
 /*
-    Created by Davis
+    Created by Davis and Lu
     For Art 101 LAB 7!!
     Thank you
 */
@@ -11,7 +11,7 @@ function goOutside(){
     var nameArray = userName.split('');
     console.log("nameArray= ", nameArray);
     //sort the array
-    var nameArraySort = nameArray.reverse();
+    var nameArraySort = nameArray.sort(function(a, b){return 0.5 - Math.random()});
     console.log("nameArraySort= ", nameArraySort);
     //join array back to a string
     var nameSorted = nameArray.join('');

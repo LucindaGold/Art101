@@ -1,0 +1,154 @@
+#content {
+  width: auto;
+  min-height: 300px;
+  padding-left: 10px;
+  margin: 0px;
+  /*border: solid 5px grey;*/
+  font-size: 20px;
+}
+
+a {
+  text-indent: 0px;
+  margin-left: 20px;
+  color: white;
+}
+
+a {
+  font-family: helvetica;
+  text-indent: 0px;
+  margin-left: 40px;
+  color: white;
+}
+
+#output {
+  /*font-family: 'Brush Script MT', cursive;*/
+  color: pink;
+  padding: 20px;
+  margin: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: bold;
+  width: auto;
+  word-wrap: break-word;
+}
+
+button {
+  margin-left: 40px;
+  padding: 40px;
+  font-size: 16px;
+  background-color: Coral;
+  color: white;
+}
+
+form {
+  margin-left: 0px;
+  padding: 40px;
+}
+
+#button {
+  margin-left: 20px;
+  padding: 20px;
+  font-size: 16px;
+  background-color: maroon;
+  color: white;
+}
+
+#input {
+  margin-right: 10px;
+  margin-left: 40px;
+  padding: 20px;
+  font-size: 16px;
+  background-color: maroon;
+  color: white;
+}
+
+figcaption {
+  font-family: "helvetica";
+  text-indent: 60px;
+  margin-left: 40px;
+  //text-align: center;
+  color: white;
+  font-size: 100%;
+}
+
+pre {
+  font-family: "helvetica";
+  text-indent: 0px;
+  margin-left: 40px;
+  color: white;
+  font-size: 100%;
+}
+
+img {
+  padding: 50px;
+  float: right;
+  margin: 20px;
+  height: auto;
+  width: 500px;
+  border: 5px solid pink;
+}
+
+#images {
+  position: absolute;
+  right: 0px;
+  width: 500px;
+  padding-left: 20px;
+  padding-right: 40px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+
+  /*height: auto;
+  width: 700px;*/
+}
+
+h1 {
+  font-size: 250%;
+  padding-bottom: : 20px;
+  padding-top: 40px;
+  margin-top: 0;
+}
+
+
+p {
+  width: 700px;
+}
+
+
+h1 {
+  text-align: center;
+  color:#4d1410;
+  font-size:250%;
+  font-family:"Courier New"
+}
+.center {
+  margin: auto;
+  width: 50%;
+}
+.centerimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+image {
+  padding: 100px;
+}
+p {
+  font-family: "Courier New";
+  text-indent: 30px;
+  margin-left: 10px;
+  border-style: groove;
+  border-width: thick;
+  border-color: red;
+  padding: 30px;
+}
+p.dream {
+  width: 50%;
+  margin-bottom: 30px;
+}
+div.content {
+  background-color: #719175;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
